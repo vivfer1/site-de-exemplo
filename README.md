@@ -1,2 +1,1 @@
-# site-de-exemplo
-para comparação
+# Tropicalia-formadores
